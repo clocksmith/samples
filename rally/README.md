@@ -1,6 +1,6 @@
-# Veggie Seasons
+# Rally
 
-An app that shows personal finance data. It showcases custom tabs, custom painted widgets,
+An app that manages personal finance data. It showcases custom tabs, custom painted widgets,
 and custom animations.
 
 **This sample is not currently in a finished state. We're in the process
